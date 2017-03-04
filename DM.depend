@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1484714685 source:c:\users\zfc\desktop\数据挖掘实验\dm\data.cpp
+	<fstream>
+	<sstream>
+	<cmath>
+	<map>
+	<iostream>
+	"data.h"
+
+1484666961 c:\users\zfc\desktop\数据挖掘实验\dm\data.h
+	<string>
+	<vector>
+	<memory>
+
+1484740365 source:c:\users\zfc\desktop\数据挖掘实验\dm\main.cpp
+	<iostream>
+	"data.h"
+	"tree.h"
+
+1484666932 source:c:\users\zfc\desktop\数据挖掘实验\dm\tree.cpp
+	"tree.h"
+	<iostream>
+
+1484667014 c:\users\zfc\desktop\数据挖掘实验\dm\tree.h
+	<vector>
+	<string>
+	<memory>
+	"data.h"
+
+1484714685 source:d:\数据挖掘实验\dm\data.cpp
+	<fstream>
+	<sstream>
+	<cmath>
+	<map>
+	<iostream>
+	"data.h"
+
+1484666961 d:\数据挖掘实验\dm\data.h
+	<string>
+	<vector>
+	<memory>
+
+1484740365 source:d:\数据挖掘实验\dm\main.cpp
+	<iostream>
+	"data.h"
+	"tree.h"
+
+1484667014 d:\数据挖掘实验\dm\tree.h
+	<vector>
+	<string>
+	<memory>
+	"data.h"
+
+1484666932 source:d:\数据挖掘实验\dm\tree.cpp
+	"tree.h"
+	<iostream>
+
+1484714685 source:d:\dm\data.cpp
+	<fstream>
+	<sstream>
+	<cmath>
+	<map>
+	<iostream>
+	"data.h"
+
+1484666961 d:\dm\data.h
+	<string>
+	<vector>
+	<memory>
+
+1484740365 source:d:\dm\main.cpp
+	<iostream>
+	"data.h"
+	"tree.h"
+
+1484667014 d:\dm\tree.h
+	<vector>
+	<string>
+	<memory>
+	"data.h"
+
+1484666932 source:d:\dm\tree.cpp
+	"tree.h"
+	<iostream>
+
+1484917704 source:d:\dataminingdecisiontree\data.cpp
+	<fstream>
+	<sstream>
+	<cmath>
+	<map>
+	<iostream>
+	"data.h"
+
+1484917565 d:\dataminingdecisiontree\data.h
+	<string>
+	<vector>
+	<memory>
+
+1485247049 source:d:\dataminingdecisiontree\main.cpp
+	<iostream>
+	"data.h"
+	"tree.h"
+	<fstream>
+
+1485247156 d:\dataminingdecisiontree\tree.h
+	<vector>
+	<string>
+	<memory>
+	"data.h"
+
+1485247136 source:d:\dataminingdecisiontree\tree.cpp
+	"tree.h"
+	<iostream>
+	<cstdlib>
+
